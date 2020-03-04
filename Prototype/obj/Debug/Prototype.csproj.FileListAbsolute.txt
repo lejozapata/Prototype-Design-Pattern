@@ -1,0 +1,6 @@
+C:\Users\salan503\Downloads\Prototype-Design-Pattern-master\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\salan503\Downloads\Prototype-Design-Pattern-master\Prototype\bin\Debug\Prototype.exe
+C:\Users\salan503\Downloads\Prototype-Design-Pattern-master\Prototype\bin\Debug\Prototype.pdb
+C:\Users\salan503\Downloads\Prototype-Design-Pattern-master\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\salan503\Downloads\Prototype-Design-Pattern-master\Prototype\obj\Debug\Prototype.exe
+C:\Users\salan503\Downloads\Prototype-Design-Pattern-master\Prototype\obj\Debug\Prototype.pdb

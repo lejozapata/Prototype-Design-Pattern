@@ -1,6 +1,6 @@
 # Prototype
 
 Integrantes:
-Sebastian Gutierrez Guisao
-Mateo León Restrepo
+[Sebastian Gutierrez Guisao]
+[Mateo León Restrepo]
 Alejandro Zapata Lopera
